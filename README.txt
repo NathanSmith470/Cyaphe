@@ -24,14 +24,14 @@ Follow the prompts.
 Congrats! You've just added your first password.
 
 ADDITIONAL COMMANDS:
-() : shortcut identifier
-(a)dd     ->    add and save a new entry to the table
-(d)elete  ->    removes an entry from the table
-(e)dit    ->    change table values for a line
-(s)ort    ->    sorts the table alphabetically by the app name
-(c)ypher  ->    re-encrypts the table with a new cypher (can destroy table if user logs in with incorrect cypher)
-(h)elp    ->    you are here
-e(x)it    ->    closes application
+    () : shortcut identifier
+    (a)dd     ->    add and save a new entry to the table
+    (d)elete  ->    removes an entry from the table
+    (e)dit    ->    change table values for a line
+    (s)ort    ->    sorts the table alphabetically by the app name
+    (c)ypher  ->    re-encrypts the table with a new cypher (can destroy table if user logs in with incorrect cypher)
+    (h)elp    ->    you are here
+    e(x)it    ->    closes application
 
 TROUBLESHOOTING:
 Q: How can I find the commands while in the Cyaphe?
